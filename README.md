@@ -5,7 +5,7 @@
 - 💞️ I’m looking to collaborate on projects and tasks on JS I'll be doing with RS school.
 - 📫 Contacts: github.com/astghik011. 
 You can also reach me by email: astghiksimonyan56@gmail.com
-Or on faceboo: facebook.com/astghik.simonyan/
+Or on facebook: facebook.com/astghik.simonyan/
 
 <!---
 Astghik011/Astghik011 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
